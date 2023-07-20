@@ -17,13 +17,12 @@
 
 # NOTES:
 
-- In the browser version, when I attach the URL of an image hosted on a server, it shows up. However, in the web version, it doesn't. To try and solve this issue, I attempted to work with base64 encoding (https://base64.guru/), but it didn't work. 
-- Gmail apparently has protection against this type of code. Pure SVG code in the email body didn't work well either.
+- In the browser version, when I attach the URL of an image hosted on a server, it shows up. However, in the web version, it doesn't. To try and solve this issue, I attempted to work with base64 encoding (https://base64.guru/), but it didn't work.
+- Pure SVG code in the email body didn't work well either.
+- Gmail apparently has protection against this type of code.
+- The formatting of the blue text appears as desired only when opened on a mobile device, as can be seen in the image below:"
 
 ![image](https://github.com/gabflag/make_your_own_email_marketing/assets/95552879/b60713bf-12bf-4597-a3f5-0fda47545493)
-
-- Na versão do navegador quando anexo a url de uma imagem hospedada em algum servidor ele mostra, entretanto, na versão web não. Para tentar solucionar esse problema tentei trabalhar com o bash64 (https://base64.guru/) mas não funcionou, o gmail tem aparentemente proteção contra esse tipo de código;
-- Código svg puro no corpo do email não funcionou bem tambem.
 
 # OBSERVATION:
 
